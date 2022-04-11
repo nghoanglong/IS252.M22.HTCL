@@ -1,6 +1,6 @@
 # IS252.M22.HTCL
 ## Introduction
-Repo này lưu trữ toàn bộ data, source code cho đồ án môn Học máy thống kê (IS252.M22.HTCL), vui lòng gửi message cho một trong 4 contact-information bên dưới nếu có bất kỳ thắc mắc nào.
+Repo này lưu trữ toàn bộ data, source code cho đồ án môn Khai thác dữ liệu (IS252.M22.HTCL), vui lòng gửi message cho một trong 4 contact-information bên dưới nếu có bất kỳ thắc mắc nào.
 
 **Lưu ý:** Không sao chép dưới mọi hình thức
 
